@@ -1,0 +1,27 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 120px;
+    color: #f8f8ff;
+
+
+}
+.logo{
+    font-weight: 500;
+}
+.nav-menu{
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+    gap: 4rem;
+    cursor: pointer;
+    align-items: center;
+    font-size: 18px;
+}
+.nav-contact{
+    background-color: gainsboro;
+    border-radius: 20px;
+    padding: 7px;
+    color: black;
+}
